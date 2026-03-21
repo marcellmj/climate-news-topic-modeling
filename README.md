@@ -3,7 +3,7 @@
 This project is divided into three main parts:
 
 1. [Data Collection & Preprocessing](01_data_collection.ipynb)  
-   Data retrieval and basic processing from The Guardian and New York Times API.
+   Retrieval and basic processing of data from The Guardian and New York Times API.
 
 2. [Exploratory Data Analysis (EDA)](02_EDA.ipynb)  
    Exploration of article volume over time and by section.
