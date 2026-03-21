@@ -11,7 +11,9 @@ This project is divided into three main parts:
 3. [Model Application](03_model_application.ipynb)  
    Application of BERTopic, sentiment analysis, and NER.
 
-All collected, preprocessed and embedded data as well as fitted topic models are stored in the [data](data) folder.
+All collected, preprocessed and embedded data as well as fitted topic models are stored in the [data](data) folder. Further, note the attached [Project Report](Project_report.pdf) and [Declaration of Authorship](Declaration_of_authorship.pdf). The according video demonstration is available [here](https://cloud.uni-konstanz.de/index.php/f/227241252).
+
+All dependencies from the used environment can be found in [requirements.txt](requirements.txt) and installed using "pip install -r requirements.txt". 
 
 ---
 ### Data Sources:
