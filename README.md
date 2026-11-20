@@ -1,5 +1,9 @@
 # ICSS Final Project: Topic Modeling of Newspaper Articles on Climate Change/Activism over Time
 
+Public attention to long-term issues such as climate change often shifts in response to more immediate crises, such as the COVID-19 pandemic or the Russia–Ukraine war. Since news media play an important role in shaping public awareness and framing societal problems, changes in media
+coverage may influence how prominently climate issues are perceived and discussed. This project explores how neural topic modeling can be used to identify patterns in climate-related news coverage across different newspapers and over time. Using the BERTopic framework, the analysis focuses on how topics related to climate change and particularly climate activism emerge
+and evolve.
+
 This project is divided into three main parts:
 
 1. [Data Collection & Preprocessing](01_data_collection.ipynb)  
